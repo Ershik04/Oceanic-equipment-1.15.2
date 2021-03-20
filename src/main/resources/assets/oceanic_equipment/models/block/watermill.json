@@ -1,0 +1,8 @@
+{
+  "parent": "oceanic_equipment:custom/water_mill",
+  "textures": {
+    "all": "oceanic_equipment:blocks/acacia",
+    "particle": "oceanic_equipment:blocks/acacia",
+    "0": "oceanic_equipment:blocks/acacia"
+  }
+}

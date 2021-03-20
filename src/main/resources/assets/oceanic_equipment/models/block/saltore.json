@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oceanic_equipment:blocks/salt_ore",
+    "up": "oceanic_equipment:blocks/salt_ore",
+    "north": "oceanic_equipment:blocks/salt_ore",
+    "east": "oceanic_equipment:blocks/salt_ore",
+    "south": "oceanic_equipment:blocks/salt_ore",
+    "west": "oceanic_equipment:blocks/salt_ore",
+    "particle": "oceanic_equipment:blocks/salt_ore"
+  }
+}

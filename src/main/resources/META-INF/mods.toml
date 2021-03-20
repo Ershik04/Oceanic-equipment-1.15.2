@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="oceanic_equipment"
+version="Pre-alpha 1.0"
+displayName="Oceanic equipment"
+credits="Mod supported Minecrafter SOM"
+displayURL="https://www.youtube.com/channel/UC0yHx_hQjxUl_mHTdfboPnQ"
+logoFile="logo.png"
+authors="Ershik04 YouTube:https://www.youtube.com/channel/UC0yHx_hQjxUl_mHTdfboPnQ"
+
+[[dependencies.oceanic_equipment]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

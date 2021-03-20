@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Oceanic equpment",
+    "icon": {
+      "value": "CUSTOM:Fishoil"
+    },
+    "showSearch": true
+  }
+}

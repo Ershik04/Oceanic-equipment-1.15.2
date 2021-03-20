@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "oceanic_equipment:fishoil"
+    },
+    "title": {
+      "translate": "advancements.thisisuseful.title"
+    },
+    "description": {
+      "translate": "advancements.thisisuseful.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thisisuseful": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "oceanic_equipment:fishoil",
+            "count": {
+              "min": 1,
+              "max": 9999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "oceanic_equipment:kinetic"
+}

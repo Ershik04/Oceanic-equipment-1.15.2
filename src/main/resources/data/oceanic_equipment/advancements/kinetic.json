@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:jungle_log"
+    },
+    "title": {
+      "translate": "advancements.kinetic.title"
+    },
+    "description": {
+      "translate": "advancements.kinetic.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kinetic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "oceanic_equipment:watermill",
+            "count": {
+              "min": 1,
+              "max": 99999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "oceanic_equipment:oceanicequipment"
+}

@@ -1,0 +1,42 @@
+{
+  "group": "oceanic_equipment",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "tag": "minecraft:planks"
+    },
+    "4": {
+      "item": "minecraft:oak_log"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "oceanic_equipment:watermill",
+    "count": 1
+  }
+}

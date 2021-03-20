@@ -1,0 +1,20 @@
+{
+  "advancements.veryold.title": "Very old",
+  "item.oceanic_equipment.deepfragment": "Deep Fragment",
+  "itemGroup.taboceanicequpment": "Oceanic equpment",
+  "item.oceanic_equipment.water_orc_spawn_egg": "Water Orc Spawn Egg",
+  "advancements.thisisuseful.descr": "Create a fish oil",
+  "block.oceanic_equipment.saltore": "Salt Ore",
+  "item.oceanic_equipment.watertotem": "Water Totem",
+  "advancements.thisisuseful.title": "This is useful",
+  "advancements.oceanicequipment.descr": "Welcome to Oceanic equoment",
+  "advancements.oceanicequipment.title": "Oceanic equipment",
+  "advancements.kinetic.title": "Kinetic",
+  "advancements.kinetic.descr": "Create a water mill",
+  "entity.oceanic_equipment.water_orc": "Water Orc",
+  "advancements.veryold.descr": "Create a Deep fragment",
+  "block.oceanic_equipment.watermill": "Water Mill",
+  "block.oceanic_equipment.fishoilcreator": "Fish Oil Creator",
+  "item.oceanic_equipment.salt": "Salt",
+  "item.oceanic_equipment.fishoil": "Fish Oil"
+}

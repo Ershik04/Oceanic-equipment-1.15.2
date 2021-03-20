@@ -1,0 +1,370 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Watermill",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "watermill"
+    },
+    {
+      "name": "Watermillcraft",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "watermillcraft"
+    },
+    {
+      "name": "Waterork",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_orc"
+    },
+    {
+      "name": "FishoilFoodEaten",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fishoil_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fishoil",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fishoil"
+    },
+    {
+      "name": "Oceanicequpment",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oceanicequpment"
+    },
+    {
+      "name": "Fishoilcreator",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fishoilcreator"
+    },
+    {
+      "name": "FishoilcreatorGUI",
+      "type": "gui",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fishoilcreator_gui"
+    },
+    {
+      "name": "Fishoilcreatorprocedure",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fishoilcreatorprocedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Whenfishoilcreatorprocedureactive",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whenfishoilcreatorprocedureactive",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fishoilcreatorcraft",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fishoilcreatorcraft"
+    },
+    {
+      "name": "Deepfragment",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepfragment"
+    },
+    {
+      "name": "DeepfragmentRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepfragment_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Deepfragmentcraft",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepfragmentcraft"
+    },
+    {
+      "name": "Oceanicequipment",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oceanicequipment"
+    },
+    {
+      "name": "Kinetic",
+      "type": "achievement",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kinetic"
+    },
+    {
+      "name": "Thisisuseful",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thisisuseful"
+    },
+    {
+      "name": "Veryold",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "veryold"
+    },
+    {
+      "name": "Waterorcloottable",
+      "type": "loottable",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "waterorcloottable"
+    },
+    {
+      "name": "Watertotem",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "watertotem"
+    },
+    {
+      "name": "WatertotemItemInInventoryTick",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "watertotem_item_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Salt",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt"
+    },
+    {
+      "name": "Saltore",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saltore"
+    },
+    {
+      "name": "WatermillGUI",
+      "type": "gui",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "watermill_gui"
+    },
+    {
+      "name": "WaterTotemcraft",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_totemcraft"
+    },
+    {
+      "name": "Whenplayerhasgotachievmentminecraftnetherroot",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whenplayerhasgotachievmentminecraftnetherroot",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.veryold.title": "Very old",
+      "item.oceanic_equipment.deepfragment": "Deep Fragment",
+      "itemGroup.taboceanicequpment": "Oceanic equpment",
+      "item.oceanic_equipment.water_orc_spawn_egg": "Water Orc Spawn Egg",
+      "advancements.thisisuseful.descr": "Create a fish oil",
+      "block.oceanic_equipment.saltore": "Salt Ore",
+      "item.oceanic_equipment.watertotem": "Water Totem",
+      "advancements.thisisuseful.title": "This is useful",
+      "advancements.oceanicequipment.descr": "Welcome to Oceanic equoment",
+      "advancements.oceanicequipment.title": "Oceanic equipment",
+      "advancements.kinetic.title": "Kinetic",
+      "advancements.kinetic.descr": "Create a water mill",
+      "entity.oceanic_equipment.water_orc": "Water Orc",
+      "advancements.veryold.descr": "Create a Deep fragment",
+      "block.oceanic_equipment.watermill": "Water Mill",
+      "block.oceanic_equipment.fishoilcreator": "Fish Oil Creator",
+      "item.oceanic_equipment.salt": "Salt",
+      "item.oceanic_equipment.fishoil": "Fish Oil"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "oceanic_equipment",
+    "modName": "Oceanic equipment",
+    "version": "Pre-alpha 1.0",
+    "author": "Ershik04 YouTube:https://www.youtube.com/channel/UC0yHx_hQjxUl_mHTdfboPnQ",
+    "websiteURL": "https://www.youtube.com/channel/UC0yHx_hQjxUl_mHTdfboPnQ",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "ershik04",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Mod supported Minecrafter SOM",
+    "modElementsPackage": "net.mcreator.oceanicequipment",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

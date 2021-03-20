@@ -1,0 +1,36 @@
+{
+  "group": "oceanic_equipment",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "1": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "3": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "7": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "8": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "result": {
+    "item": "oceanic_equipment:deepfragment",
+    "count": 1
+  }
+}

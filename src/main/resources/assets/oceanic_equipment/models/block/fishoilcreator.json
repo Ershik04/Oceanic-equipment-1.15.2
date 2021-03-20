@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oceanic_equipment:blocks/fish_oil_creator_at_the_bottom",
+    "up": "oceanic_equipment:blocks/fish_oil_creator_at_the_bottom",
+    "north": "oceanic_equipment:blocks/fish_oil_creator_in_front",
+    "east": "oceanic_equipment:blocks/fish_oil_creator_bottom",
+    "south": "oceanic_equipment:blocks/fish_oil_creator_bottom",
+    "west": "oceanic_equipment:blocks/fish_oil_creator_bottom",
+    "particle": "oceanic_equipment:blocks/fish_oil_creator_at_the_bottom"
+  }
+}

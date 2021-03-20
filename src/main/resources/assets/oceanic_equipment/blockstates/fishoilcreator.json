@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oceanic_equipment:block/fishoilcreator"
+    },
+    "facing=east": {
+      "model": "oceanic_equipment:block/fishoilcreator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oceanic_equipment:block/fishoilcreator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oceanic_equipment:block/fishoilcreator",
+      "y": 270
+    }
+  }
+}
